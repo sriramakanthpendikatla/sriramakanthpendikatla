@@ -1,9 +1,9 @@
 <h1 align="center">Hey, I'm Sriram 👋</h1>
 
 <p align="center">
-  <b>AI/ML Engineer · Backend Developer · GenAI Builder</b><br/>
-  Final-year B.Tech CSE (AI & ML) · VVIT, Andhra Pradesh<br/>
-  ACM Student Chapter Chairperson · Hackathon Organiser · 2× Competition Winner
+  <b>Backend Python Developer · FastAPI · PostgreSQL · Docker</b><br/>
+  AI/ML Integration · GenAI Systems · REST APIs that actually scale<br/>
+  Final-year B.Tech CSE (AI & ML) · VVIT, Andhra Pradesh · ACM Chairperson
 </p>
 
 <p align="center">
@@ -22,83 +22,84 @@
 
 ## 👨‍💻 About Me
 
-I build production-grade AI and backend systems — from FastAPI microservices to ML pipelines to GenAI tools that actually ship.
+I'm a **Backend Python Developer** who specialises in building clean, scalable APIs and integrating ML/AI into production systems.
 
-- 🧠 **Currently building:** GenAI-powered applications using LLMs, RAG pipelines, and multimodal models (CLIP, ResNet18)
-- 🏛️ **Leadership:** Chairperson of the ACM Student Chapter at VVIT — organised **Udgama 1.0**, a college-wide hackathon with 100+ participants
+My core is **FastAPI + PostgreSQL + Docker** — I design REST APIs, model relational schemas, manage async workflows, and containerise everything for reproducible deployment. On top of that I bring AI/ML integration as a differentiator: connecting LLMs, embedding pipelines, and ML models into real backend services.
+
+- 🐍 **Primary stack:** Python · FastAPI · SQLAlchemy · PostgreSQL · Docker
+- 🤖 **AI edge:** GenAI integrations, RAG pipelines, CLIP/ResNet18 multimodal systems
+- 🏛️ **Leadership:** ACM Chairperson at VVIT — organised **Udgama 1.0** hackathon (100+ participants)
 - 🏆 **Achievements:** 2nd place at **AUNSF 3.0 Startup Competition** · HackerRank 5★ Gold in Python
 - ☁️ **Certified:** Google Cloud Skill Boost — Vertex AI & Gemini · NPTEL Python for Data Science
-- 🎯 **Targeting:** AI/ML Engineer, Backend Developer, and GenAI roles for 2025–2026
+- 🎯 **Open to:** Backend Python Developer · Backend + AI/ML roles · 2025–2026
 - 📍 **Based in:** Vijayawada, Andhra Pradesh, India
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Product Intelligence System
-**CLIP + ResNet18 · PyTorch · Kaggle**  
-Multimodal AI system that combines vision and language understanding to analyse and classify products. Built with CLIP for cross-modal embeddings and ResNet18 for visual feature extraction.  
-`#GenAI` `#ComputerVision` `#Multimodal`
-
----
-
-### 🏠 Real Estate Price Prediction
-**scikit-learn · FastAPI · PostgreSQL · Docker**  
-End-to-end ML pipeline for property price prediction — from data ingestion and feature engineering to a deployed REST API with PostgreSQL persistence. Containerised with Docker for reproducible deployment.  
-`#MachineLearning` `#FastAPI` `#Docker`
-
----
-
 ### 🔐 Online Exam Submission System
-**FastAPI · SQLAlchemy · PostgreSQL**  
-Secure backend system for exam management — handles authentication, timed submissions, and result storage. Built with FastAPI and SQLAlchemy with a normalised PostgreSQL schema.  
-`#BackendDevelopment` `#FastAPI` `#Python`
+**FastAPI · SQLAlchemy · PostgreSQL · Alembic**
+Production-ready backend for exam management — JWT authentication, timed session handling, submission locking, and result storage. Normalised PostgreSQL schema with SQLAlchemy ORM and Alembic migrations. Clean router-level separation of concerns.
+`#FastAPI` `#PostgreSQL` `#BackendPython` `#REST API`
+
+---
+
+### 🏠 Real Estate Price Prediction API
+**FastAPI · scikit-learn · PostgreSQL · Docker**
+End-to-end backend service that exposes a trained ML model via a REST API. Handles data ingestion, feature engineering, model inference, and result persistence — all containerised with Docker for one-command deployment.
+`#FastAPI` `#Docker` `#MachineLearning` `#Python`
+
+---
+
+### 🤖 AI Product Intelligence System
+**FastAPI · CLIP · ResNet18 · PyTorch**
+Multimodal backend that combines vision and language understanding to classify and analyse products. CLIP handles cross-modal embeddings; ResNet18 extracts visual features. Served via a FastAPI endpoint.
+`#GenAI` `#ComputerVision` `#FastAPI` `#Python`
 
 ---
 
 ### 🌐 VVIT ACM Student Chapter Website
-**React · Vite · Framer Motion · GSAP · tsParticles**  
-Animated community website for the ACM chapter — dark navy + electric cyan theme, particle effects, and smooth scroll animations. Designed for student engagement and event showcasing.  
-`#React` `#GSAP` `#Frontend`
+**React · Vite · Framer Motion · GSAP · tsParticles**
+Animated community website for the ACM chapter — dark navy + electric cyan theme with particle effects and smooth scroll. Built and deployed as the chapter's public face for events and recruitment.
+`#React` `#Frontend` `#GSAP`
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Core — Backend Python
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-
-### AI / ML / GenAI
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F79318?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-white?style=flat-square&logo=opencv&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-d9ead3?style=flat-square&logo=numpy&logoColor=blue)
-
-### Backend & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-cc2927?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=%2361DAFB)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-### Databases & Cloud
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
 
-### Frontend & Tools
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+### AI / ML Integration
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F79318?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-white?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+### Cloud & Tools
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-fc6d26?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+### Other Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
 ---
 
@@ -117,18 +118,18 @@ Animated community website for the ACM chapter — dark navy + electric cyan the
 
 ## 🏛️ ACM Leadership
 
-As **Chairperson of the VVIT ACM Student Chapter**, I lead a community of engineering students focused on technical excellence and real-world problem solving.
+As **Chairperson of the VVIT ACM Student Chapter**, I lead a community of engineering students focused on technical excellence and industry readiness.
 
 - 🗓️ Organised **Udgama 1.0** — a full-scale internal hackathon with multiple problem tracks
-- 📚 Planned and executed **25+ technical events** in 2025–2026 including workshops, bootcamps, and competitions
-- 🤝 Bridged the gap between academic curriculum and industry-relevant skills for 100+ students
+- 📚 Planned and executed **25+ technical events** in 2025–2026: workshops, bootcamps, and competitions
+- 🤝 Built a bridge between academic curriculum and industry-relevant engineering skills for 100+ students
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm actively looking for **AI/ML Engineer, Backend Developer, and GenAI** roles for 2025–2026.  
-If you're building something interesting in AI or need a backend that actually scales — let's talk.
+I'm actively looking for **Backend Python Developer** roles — with a bonus if the product touches AI or ML.
+If you need clean APIs, solid database design, and a developer who ships — let's talk.
 
 <p align="center">
   <a href="https://sriramakanthpendikatla.github.io/portfolio">
