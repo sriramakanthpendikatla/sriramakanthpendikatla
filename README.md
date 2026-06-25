@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Sriram 👋</h1>
+<h1 align="center">Hey, I'm Pendikatla Sri Ramakanth 👋</h1>
 
 <p align="center">
   <b>Backend Python Developer · FastAPI · PostgreSQL · Docker</b><br/>
