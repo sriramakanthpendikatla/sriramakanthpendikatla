@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Pendikatla Sri Ramakanth 👋</h1>
+<h1 align="center">Hey, I'm Pendikatla Sri RamaKanth 👋</h1>
 
 <p align="center">
   <b>Backend Python Developer · FastAPI · PostgreSQL · Docker</b><br/>
@@ -37,6 +37,13 @@ My core is **FastAPI + PostgreSQL + Docker** — I design REST APIs, model relat
 ---
 
 ## 🚀 Featured Projects
+
+### 🚗 Corporate Vehicle Pool Management System
+**FastAPI · SQLAlchemy · PostgreSQL · Alembic · Pydantic**
+Production-grade fleet management backend for managing shared company vehicles (cars, bikes, vans). Implements department-based access control, concurrent reservation locking with `SELECT FOR UPDATE`, driver license validation, maintenance scheduling with conflict detection, and a complete audit trail. Full vehicle lifecycle tracking from reservation → check-out → check-in → maintenance with trip odometer and fuel validation.
+`#FastAPI` `#PostgreSQL` `#SQLAlchemy` `#Alembic` `#BackendPython`
+
+---
 
 ### 🔐 Online Exam Submission System
 **FastAPI · SQLAlchemy · PostgreSQL · Alembic**
@@ -115,6 +122,7 @@ Animated community website for the ACM chapter — dark navy + electric cyan the
 </p>
 
 ---
+
 ## 🏛️ ACM Leadership
 
 As **Chairperson of the VVIT ACM Student Chapter**, I lead a community of engineering students focused on technical excellence and industry readiness.
@@ -123,12 +131,6 @@ As **Chairperson of the VVIT ACM Student Chapter**, I lead a community of engine
 - 📚 Planned and executed **25+ technical events** in 2025–2026: workshops, bootcamps, and competitions
 - 🤝 Built a bridge between academic curriculum and industry-relevant engineering skills for 100+ students
 
----
-## 🌍 Open Source Contributions
-
-| Project | PR | Description |
-|---|---|---|
-| [falconry/falcon](https://github.com/falconry/falcon) | [#2669](https://github.com/falconry/falcon/pull/2669) | Updated obsolete RFC references in docs |
 ---
 
 ## 🤝 Let's Connect
