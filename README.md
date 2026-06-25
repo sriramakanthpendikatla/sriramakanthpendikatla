@@ -45,6 +45,14 @@ Production-grade fleet management backend for managing shared company vehicles (
 
 ---
 
+### 💧 HealthWatch — Waterborne Disease Monitoring PWA
+**React · TypeScript · Vite · Tailwind CSS**
+Frontend platform for community health workers — ASHA workers, clinic staff, district officers, and volunteers — to report suspected waterborne disease cases, log water quality readings by location, and access categorised prevention guidance. Role-based views, offline-connectivity awareness, and a CI/CD pipeline via GitHub Actions deploying straight to GitHub Pages.
+`#React` `#TypeScript` `#PublicHealth` `#PWA` `#Frontend`
+[Live Demo →](https://sriramakanthpendikatla.github.io/HealthWatch/)
+
+---
+
 ### 🔐 Online Exam Submission System
 **FastAPI · SQLAlchemy · PostgreSQL · Alembic**
 Production-ready backend for exam management — JWT authentication, timed session handling, submission locking, and result storage. Normalised PostgreSQL schema with SQLAlchemy ORM and Alembic migrations. Clean router-level separation of concerns.
@@ -82,6 +90,12 @@ Animated community website for the ACM chapter — dark navy + electric cyan the
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
