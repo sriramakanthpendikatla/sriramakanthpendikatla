@@ -153,7 +153,7 @@ I'm actively looking for **Backend Python Developer** roles — with a bonus if 
 If you need clean APIs, solid database design, and a developer who ships — let's talk.
 
 <p align="center">
-  <a href="https://sriramakanthpendikatla.github.io/portfolio">
+  <a href="https://sriramakanthpendikatla.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/View%20My%20Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   &nbsp;
