@@ -177,5 +177,5 @@ If you need clean APIs, solid database design, and a developer who ships — let
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sriramakanthpendikatla&icon=0&color=0"/>
+  <img src="https://komarev.com/ghpvc/?username=sriramakanthpendikatla&style=flat&color=blue"/>
 </p>
