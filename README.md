@@ -10,7 +10,7 @@
   <a href="https://sriramakanthpendikatla.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://linkedin.com/in/sri-rama-kanth-pendikatla-080105288" target="_blank">
+  <a href="https://linkedin.com/in/sriramakanthpendikatla" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:sriramakanthpendikatla84@gmail.com">
@@ -165,7 +165,7 @@ If you need clean APIs, solid database design, and a developer who ships — let
     <img src="https://img.shields.io/badge/View%20My%20Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/sri-rama-kanth-pendikatla-080105288">
+  <a href="https://linkedin.com/in/sriramakanthpendikatla">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
