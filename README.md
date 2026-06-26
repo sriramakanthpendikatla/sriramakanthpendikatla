@@ -151,7 +151,7 @@ As **Chairperson of the VVIT ACM Student Chapter**, I lead a community of engine
 
 - 🗓️ Organised **Udgama 1.0** — a full-scale internal hackathon with multiple problem tracks
 - 📚 Planned and executed **25+ technical events** in 2025–2026: workshops, bootcamps, and competitions
-- 🤝 Built a bridge between academic curriculum and industry-relevant engineering skills for 100+ students
+- 🤝 Built a bridge between academic curriculum and industry-relevant engineering skills for 1000+ students
 
 ---
 
