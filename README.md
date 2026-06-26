@@ -45,6 +45,14 @@ Production-grade fleet management backend for managing shared company vehicles (
 
 ---
 
+### 🛒 Shopping Cart — Full Stack Inventory Management
+**FastAPI · SQLAlchemy 2.0 · PostgreSQL · React · Docker · GitHub Actions**
+Full-stack product inventory management system with a FastAPI backend and React frontend — fully deployed and live. Features complete CRUD operations, live search, sortable columns, auto row numbering, and form validation. Backend hosted on Render with Neon PostgreSQL; frontend deployed via GitHub Actions CI/CD to GitHub Pages.
+`#FastAPI` `#React` `#PostgreSQL` `#Docker` `#GitHubActions` `#FullStack`
+[Live Demo →](https://sriramakanthpendikatla.github.io/fastapi-shoppingcart) · [API Docs →](https://fastapi-shoppingcart.onrender.com/docs)
+
+---
+
 ### 💧 HealthWatch — Waterborne Disease Monitoring PWA
 **React · TypeScript · Vite · Tailwind CSS**
 Frontend platform for community health workers — ASHA workers, clinic staff, district officers, and volunteers — to report suspected waterborne disease cases, log water quality readings by location, and access categorised prevention guidance. Role-based views, offline-connectivity awareness, and a CI/CD pipeline via GitHub Actions deploying straight to GitHub Pages.
