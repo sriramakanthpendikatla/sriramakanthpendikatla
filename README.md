@@ -135,13 +135,12 @@ Animated community website for the ACM chapter — dark navy + electric cyan the
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sriramakanthpendikatla&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriramakanthpendikatla&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="160"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=sriramakanthpendikatla&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" height="160"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sriramakanthpendikatla&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="160"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=sriramakanthpendikatla&theme=tokyonight&hide_border=true"/>
 </p>
-
 ---
 
 ## 🏛️ ACM Leadership
