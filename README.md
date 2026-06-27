@@ -88,59 +88,56 @@ Animated community website for the ACM chapter — dark navy + electric cyan the
 `#React` `#Frontend` `#GSAP`
 
 ---
+## 💻 Tech Stack
 
-## 🛠️ Tech Stack
+### 🐍 Core — Backend Python
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,docker,postgres"/>
+</p>
 
-### Core — Backend Python
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-cc2927?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+`SQLAlchemy` `Alembic` `Pydantic`
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind"/>
+</p>
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase"/>
+</p>
 
-### AI / ML Integration
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F79318?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-white?style=flat-square&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+### 🤖 AI / ML Integration
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+</p>
 
-### Cloud & Tools
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-fc6d26?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+`scikit-learn` `OpenCV` `pandas` `NumPy` `CLIP` `RAG` `LangChain` `FAISS`
 
-### Other Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+### ☁️ Cloud & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp,aws,git,github,postman,docker,vscode"/>
+</p>
 
+### 🔤 Other Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,java,c"/>
+</p>
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=sriramakanthpendikatla&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" height="160"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sriramakanthpendikatla&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sriramakanthpendikatla&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriramakanthpendikatla&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="160"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=sriramakanthpendikatla&theme=tokyonight&hide_border=true"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sriramakanthpendikatla&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</p>
+
 ---
 
 ## 🏛️ ACM Leadership
@@ -189,6 +186,7 @@ Leading one of the most active technical communities at VVIT by fostering innova
 ✅ Built a collaborative ecosystem connecting students with industry practices, modern technologies, and real-world software development.
 
 > **"Building developers, not just graduates."** 🚀
+
 ---
 
 ## 🤝 Let's Connect
