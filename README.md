@@ -1,27 +1,15 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Sri+RamaKanth+%F0%9F%91%8B;Backend+Python+Developer;FastAPI+%C2%B7+PostgreSQL+%C2%B7+Docker;AI%2FML+Engineer+%7C+Open+to+Opportunities" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3040,100:00d9ff&height=200&section=header&text=Pendikatla%20Sri%20RamaKanth&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Backend%20Python%20Developer%20%C2%B7%20AI%2FML%20Engineer&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&width=680&lines=FastAPI+%C2%B7+PostgreSQL+%C2%B7+SQLAlchemy+%C2%B7+Docker;GenAI+integrations+%26+RAG+pipelines;Building+backends+that+actually+scale+%F0%9F%9A%80;ACM+Chairperson+%7C+Open+to+Opportunities" alt="Typing SVG" />
 
 <br/>
 
-<!-- Capsule Render Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontSize=0" width="100%"/>
-
-</div>
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║   Building scalable backends · Wiring AI into real systems      ║
-║   FastAPI · PostgreSQL · SQLAlchemy · Docker · GenAI            ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white)](https://sriramakanthpendikatla.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00d9ff&labelColor=0d1117)](https://sriramakanthpendikatla.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sriramakanthpendikatla)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sriramakanthpendikatla84@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sriramakanthpendikatla84@gmail.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/sriramakanthpendikatla)
 [![Profile Views](https://komarev.com/ghpvc/?username=sriramakanthpendikatla&style=for-the-badge&color=00d9ff&label=Profile+Views)](https://github.com/sriramakanthpendikatla)
 
 </div>
@@ -33,17 +21,18 @@
 ```python
 class SriRamaKanth:
     name        = "Pendikatla Sri RamaKanth"
-    role        = "Backend Python Developer · AI/ML Engineer"
-    location    = "Vijayawada, Andhra Pradesh 🇮🇳"
-    education   = "B.Tech CSE (AI & ML) — VVIT, 2025"
-    leadership  = "ACM Chairperson @ VVIT"
+    role        = "Backend Python Developer  ·  AI/ML Engineer"
+    location    = "Vijayawada, Andhra Pradesh, India  🇮🇳"
+    education   = "B.Tech CSE (AI & ML) — VVIT  |  Batch of 2025"
+    leadership  = "ACM Chairperson @ VVIT  |  25+ events  |  1000+ students"
 
-    core_stack  = ["FastAPI", "PostgreSQL", "SQLAlchemy", "Docker"]
-    ai_edge     = ["GenAI", "RAG Pipelines", "CLIP", "LangChain", "PyTorch"]
-    superpowers = ["REST API Design", "Async Workflows", "ML Model Serving"]
+    core_stack  = ["FastAPI", "PostgreSQL", "SQLAlchemy 2.0", "Docker", "Alembic"]
+    ai_edge     = ["GenAI", "RAG Pipelines", "CLIP", "LangChain", "PyTorch", "YOLOv8"]
+    internships = ["Infosys Springboard", "Prodigy InfoTech"]
+    superpowers = ["REST API Design", "Async Workflows", "ML Model Serving", "CI/CD"]
 
-    currently   = "Open to Backend Python · Backend + AI/ML roles 🚀"
-    fun_fact    = "I turn caffeine into FastAPI endpoints ☕→🔧"
+    currently   = "Open to Backend Python · Backend + AI/ML roles  🚀"
+    fun_fact    = "I turn caffeine into FastAPI endpoints  ☕ → 🔧"
 
     def greet(self):
         return "Let's build something that actually scales."
@@ -53,13 +42,26 @@ class SriRamaKanth:
 
 ## ⚡ What I Actually Do
 
-> I don't just write code — I architect systems.
+> Not buzzwords — real work.
 
-- 🔧 **Build production-grade REST APIs** with FastAPI — async, typed, documented, and deployed
-- 🗄️ **Design relational schemas** with PostgreSQL + SQLAlchemy 2.0 — migrations, indexes, the works
-- 🤖 **Wire AI into backends** — LLM integrations, RAG pipelines, multimodal CLIP/ResNet systems
-- 🐳 **Containerise everything** with Docker for reproducible, one-command deployments
-- 📦 **Ship full-stack** when needed — FastAPI backends + React frontends + CI/CD on GitHub Actions
+| Area | What I Build |
+|------|-------------|
+| 🔧 **REST APIs** | Production-grade FastAPI services — async, typed, documented, deployed |
+| 🗄️ **Database Design** | Relational schemas with PostgreSQL + SQLAlchemy 2.0, migrations with Alembic |
+| 🤖 **AI Integration** | LLM backends, RAG pipelines, multimodal CLIP/ResNet18, LangChain agents |
+| 🐳 **DevOps** | Docker multi-stage builds, GitHub Actions CI/CD, Render deployments |
+| 📦 **Full-Stack** | FastAPI backends + React frontends — both deployed and live |
+
+---
+
+## 📊 At a Glance
+
+<div align="center">
+
+| 🎯 1000+ Students Reached | 🚀 25+ Events Organised | 💻 6+ Live Projects | 🏆 2nd at AUNSF 3.0 |
+|:---:|:---:|:---:|:---:|
+
+</div>
 
 ---
 
@@ -70,32 +72,34 @@ class SriRamaKanth:
 <td width="50%" valign="top">
 
 ### 🚗 Corporate Vehicle Pool System
-> *Fleet management backend at production grade*
+> *Fleet management at production grade*
 
-**Tech:** FastAPI · SQLAlchemy · PostgreSQL · Alembic · Pydantic
+**Tech:** `FastAPI` `SQLAlchemy` `PostgreSQL` `Alembic` `Pydantic`
 
-- Concurrent reservation locking via `SELECT FOR UPDATE`
-- Department-based access control
-- Driver license validation + maintenance scheduling
-- Full vehicle lifecycle: reservation → check-out → check-in → maintenance
+- ⚡ Concurrent reservation locking with `SELECT FOR UPDATE`
+- 🏢 Department-based access control
+- 🚦 Driver license validation + maintenance scheduling with conflict detection
+- 📋 Full lifecycle: reservation → check-out → check-in → maintenance
+- 🔍 Trip odometer & fuel validation
 
-`#FastAPI` `#PostgreSQL` `#SQLAlchemy` `#Alembic`
+`#BackendPython` `#FastAPI` `#PostgreSQL` `#SQLAlchemy`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🛒 Shopping Cart — Full Stack
-> *Deployed & live — the whole pipeline*
+> *Every layer deployed and live*
 
-**Tech:** FastAPI · SQLAlchemy 2.0 · PostgreSQL · React · Docker · GitHub Actions
+**Tech:** `FastAPI` `SQLAlchemy 2.0` `PostgreSQL` `React` `Docker` `GitHub Actions`
 
-- Complete CRUD, live search, sortable columns
-- Backend on Render + Neon PostgreSQL
-- Frontend via GitHub Actions CI/CD → GitHub Pages
+- ✅ Complete CRUD, live search, sortable columns
+- 🚀 Backend on Render with Neon PostgreSQL
+- ⚙️ GitHub Actions CI/CD → GitHub Pages frontend
+- 🎨 Auto row numbering, form validation
 
-`#FullStack` `#Docker` `#CI/CD`
+`#FullStack` `#Docker` `#CI/CD` `#GitHubActions`
 
-[🔴 Live Demo](https://sriramakanthpendikatla.github.io/fastapi-shoppingcart) · [📖 API Docs](https://fastapi-shoppingcart.onrender.com/docs)
+🔴 [Live Demo](https://sriramakanthpendikatla.github.io/fastapi-shoppingcart) · 📖 [API Docs](https://fastapi-shoppingcart.onrender.com/docs)
 
 </td>
 </tr>
@@ -103,29 +107,29 @@ class SriRamaKanth:
 <td width="50%" valign="top">
 
 ### 🤖 AI Product Intelligence System
-> *Vision + language understanding, fused*
+> *Vision + language, fused*
 
-**Tech:** FastAPI · CLIP · ResNet18 · PyTorch
+**Tech:** `FastAPI` `CLIP` `ResNet18` `PyTorch`
 
-- Multimodal product classification
-- CLIP cross-modal embeddings + ResNet18 visual features
-- Served via clean FastAPI endpoints
+- 🧠 CLIP cross-modal embeddings + ResNet18 visual features
+- 🔀 Multimodal product classification pipeline
+- ⚡ Served via clean async FastAPI endpoints
 
-`#GenAI` `#ComputerVision` `#Multimodal`
+`#GenAI` `#ComputerVision` `#Multimodal` `#PyTorch`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔐 Online Exam Submission System
-> *JWT, timed sessions, submission locks*
+> *Secure, timed, no-double-submit*
 
-**Tech:** FastAPI · SQLAlchemy · PostgreSQL · Alembic
+**Tech:** `FastAPI` `SQLAlchemy` `PostgreSQL` `Alembic` `JWT`
 
-- JWT authentication + timed session handling
-- Submission locking — no double-submits
-- Normalised schema with clean router separation
+- 🔑 JWT authentication with timed session handling
+- 🔒 Submission locking — zero double-submits
+- 📊 Normalised schema, clean router-level separation
 
-`#FastAPI` `#PostgreSQL` `#BackendPython`
+`#FastAPI` `#JWT` `#BackendPython` `#RESTAPI`
 
 </td>
 </tr>
@@ -133,30 +137,45 @@ class SriRamaKanth:
 <td width="50%" valign="top">
 
 ### 🏠 Real Estate Price Prediction API
-> *ML model → REST endpoint, fully Dockerised*
+> *ML model → REST endpoint → Docker*
 
-**Tech:** FastAPI · scikit-learn · PostgreSQL · Docker
+**Tech:** `FastAPI` `scikit-learn` `PostgreSQL` `Docker`
 
-- End-to-end: data ingestion → feature engineering → inference → persistence
-- One-command deployment via Docker
+- 📈 Data ingestion → feature engineering → inference → persistence
+- 🐳 One-command deployment via Docker
+- 🔌 Clean REST interface for model serving
 
-`#MLOps` `#FastAPI` `#Docker`
+`#MLOps` `#FastAPI` `#Docker` `#MachineLearning`
 
 </td>
 <td width="50%" valign="top">
 
 ### 💧 HealthWatch — Disease Monitoring PWA
-> *Public health tooling for ASHA workers & clinic staff*
+> *Public health tooling for field workers*
 
-**Tech:** React · TypeScript · Vite · Tailwind CSS
+**Tech:** `React` `TypeScript` `Vite` `Tailwind CSS`
 
-- Role-based views for field workers, clinics, district officers
-- Offline-connectivity awareness
-- CI/CD → GitHub Pages
+- 👥 Role-based views: ASHA workers, clinic staff, district officers
+- 📶 Offline-connectivity awareness
+- 🚀 CI/CD → GitHub Pages
 
-[🔴 Live Demo](https://sriramakanthpendikatla.github.io/HealthWatch/)
+`#PWA` `#TypeScript` `#PublicHealth` `#React`
 
-`#PWA` `#TypeScript` `#PublicHealth`
+🔴 [Live Demo](https://sriramakanthpendikatla.github.io/HealthWatch/)
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### 🌐 VVIT ACM Student Chapter Website
+> *The chapter's public face — animated, dark-themed, pixel-perfect*
+
+**Tech:** `React` `Vite` `Framer Motion` `GSAP` `tsParticles`
+
+Dark navy + electric cyan design with particle effects and smooth scroll animations. Built and deployed as the official ACM VVIT chapter website.
+
+`#React` `#GSAP` `#Frontend` `#AnimatedUI`
 
 </td>
 </tr>
@@ -164,66 +183,77 @@ class SriRamaKanth:
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-### 🐍 Backend Python — My Home
+### 🐍 Backend Python — My Home Turf
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-cc2927?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-6BA539?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
-### 🗄️ Databases & Storage
+### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
 
-### 🤖 AI / ML
+### 🤖 AI / ML Integration
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F79318?style=flat-square&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-white?style=flat-square&logo=opencv&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=python&logoColor=white)
 
 ### 🐳 DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=black)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Neon](https://img.shields.io/badge/Neon_DB-00E5CC?style=flat-square&logo=postgresql&logoColor=black)
 
 ### 🎨 Frontend (When I Have To)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
 ### 🔧 Dev Tools
 ![Git](https://img.shields.io/badge/Git-fc6d26?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-6BA539?style=flat-square&logo=flask&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=sriramakanthpendikatla&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sriramakanthpendikatla&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="170"/>
+<img src="https://github-readme-stats.shion.dev/api?username=sriramakanthpendikatla&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=00d9ff&title_color=00d9ff&bg_color=0d1117" height="175"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sriramakanthpendikatla&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=00d9ff" height="175"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=sriramakanthpendikatla&theme=tokyonight&hide_border=true&fire=FF6B35&ring=00D9FF&currStreakLabel=00D9FF&sideLabels=7d8590&background=0d1117&dates=7d8590" width="60%"/>
 
 </div>
 
+---
+
+## 📈 Contribution Activity
+
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=sriramakanthpendikatla&theme=tokyonight&hide_border=true&fire=FF6B35&ring=00D9FF&currStreakLabel=00D9FF" width="60%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sriramakanthpendikatla&theme=tokyo-night&hide_border=true&area=true&area_color=00d9ff&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff" width="95%"/>
 </div>
 
 ---
@@ -232,123 +262,113 @@ class SriRamaKanth:
 
 <div align="center">
 
-| 🏆 | Achievement |
-|---|---|
-| 🥈 | **2nd Place** — AUNSF 3.0 National Startup Competition |
-| ⭐ | **5★ Gold** in Python — HackerRank |
-| 🎓 | **Elite + Top 1%** — NPTEL HCI (IIT Madras / IIIT Delhi) |
-| ☁️ | **Google Cloud** — Vertex AI & Gemini Skill Boost |
-| 📊 | **NPTEL** — Python for Data Science |
-| 🏛️ | **ACM Chairperson** — Led 25+ events, 1000+ students reached |
-| 💼 | **Interned** @ Infosys Springboard & Prodigy InfoTech |
+| | Achievement | Tag |
+|:---:|---|:---:|
+| 🥈 | **2nd Place** — AUNSF 3.0 National Startup Competition | `startup` |
+| ⭐ | **5★ Gold** in Python — HackerRank | `coding` |
+| 🎓 | **Elite + Top 1%** — NPTEL HCI · IIT Madras / IIIT Delhi | `top 1%` |
+| ☁️ | **Google Cloud** Skill Boost — Vertex AI & Gemini | `cloud` |
+| 📊 | **NPTEL** — Python for Data Science | `cert` |
+| 🏛️ | **ACM Chairperson** — 25+ events, 1000+ students | `leadership` |
+| 💼 | **Interned** @ Infosys Springboard & Prodigy InfoTech | `industry` |
 
 </div>
 
 ---
 
-## 🏛️ ACM Chairperson — VVIT Student Chapter
+## 🏛️ ACM Leadership — VVIT Student Chapter
 
 <div align="center">
 
 ```
- ╭─────────────────────────────────────────────────╮
- │  "Building developers, not just graduates."  🚀 │
- ╰─────────────────────────────────────────────────╯
+ ╔══════════════════════════════════════════════════╗
+ ║       "Building developers, not just             ║
+ ║        graduates."                 🚀            ║
+ ╚══════════════════════════════════════════════════╝
 ```
 
-</div>
+**Chairperson · ACM VVIT Student Chapter · 2025 – Present**
 
-Leading the ACM VVIT chapter as **Chairperson (2025–Present)** — building a community where students ship real projects, learn from industry, and grow together.
+</div>
 
 <table>
 <tr>
 <td width="50%">
 
-**🎯 What I've Led**
-- 🚀 Organised **Udgama 1.0 Hackathon** — 100+ participants
-- 📅 Executed **25+ technical events** across AI, web dev, open source & competitive programming
+#### 🎯 What I've Led
+- 🚀 Organised **Udgama 1.0** — ACM VVIT's flagship hackathon with 100+ participants
+- 📅 Executed **25+ technical events** across AI/ML, web dev, open source & competitive programming
 - 🤝 Built industry collaborations with developers and mentors
-- 💡 Promoted open-source culture and hands-on learning
+- 💡 Championed open-source culture and project-first learning
 
 </td>
 <td width="50%">
 
-**📈 Impact Numbers**
-- 👨‍🎓 **1000+ students** reached across sessions
+#### 📈 Impact by Numbers
+- 👨‍🎓 **1000+ students** reached across workshops and sessions
 - 💻 Hackathons · Coding Contests · Bootcamps
 - 🎤 Speaker Sessions · Technical Workshops
-- 🌐 Significantly grew chapter engagement
+- 🌐 Grew chapter presence across campus significantly
 - 🚀 Mentored peers on projects and career paths
 
 </td>
 </tr>
 </table>
 
+**Events Organised:**
+> AI & Machine Learning Workshops · Web Development Bootcamps · Competitive Programming Contests · Git & GitHub Sessions · Open Source Drives · Technical Speaker Sessions
+
 ---
 
-## 🌱 Currently Exploring
+## 🌱 What I'm Learning Right Now
 
 ```bash
-$ cat current_learning.log
+$ cat ~/learning/roadmap.log
 
-[IN_PROGRESS] Advanced PostgreSQL — partitioning, indexing strategies, EXPLAIN ANALYZE
-[IN_PROGRESS] System Design — HLD/LLD for backend interviews
-[IN_PROGRESS] LangChain + LLM Tool Use — agentic backend patterns
-[NEXT]        Kubernetes basics — container orchestration
-[NEXT]        Redis caching patterns for FastAPI
-[ALWAYS]      Clean code · Good APIs · Fewer bugs 🐛
+[ACTIVE]  PostgreSQL advanced — partitioning, indexing strategies, EXPLAIN ANALYZE
+[ACTIVE]  System Design — HLD/LLD for backend & SDE interviews
+[ACTIVE]  LangChain + LLM tool use — agentic backend patterns
+[NEXT]    Kubernetes basics — container orchestration for backend services
+[NEXT]    Redis caching patterns for FastAPI at scale
+[ALWAYS]  Clean code · Good API design · Fewer bugs 🐛
 ```
 
 ---
 
 ## 💬 Ask Me About
 
-> Things I can actually help with — not just buzzwords
+> Real things I can actually help with
 
-- ⚡ FastAPI best practices — routers, dependencies, middleware, async patterns
-- 🗄️ SQLAlchemy 2.0 — sessions, relationships, migrations with Alembic
-- 🐳 Dockerising Python apps — multi-stage builds, Compose, health checks
-- 🤖 Connecting LLMs to backends — OpenAI API, RAG, embeddings
-- 🏛️ Running a college tech community from scratch
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sriramakanthpendikatla&theme=tokyo-night&hide_border=true&area=true&area_color=00d9ff" width="95%"/>
-
-</div>
+- ⚡ **FastAPI** — routers, dependencies, middleware, async patterns, background tasks
+- 🗄️ **SQLAlchemy 2.0** — sessions, relationships, eager vs lazy loading, Alembic migrations
+- 🐳 **Docker** — multi-stage builds, Compose setups, health checks, Render deployment
+- 🤖 **AI × Backend** — connecting LLMs to FastAPI, RAG pipelines, embedding storage
+- 🏛️ **Tech community building** — running a college chapter from scratch
 
 ---
 
-## 🤝 Let's Talk
+## 🤝 Let's Connect
 
-I'm actively seeking **Backend Python Developer** or **Backend + AI/ML** roles — preferably at product companies where the engineering actually matters.
+I'm actively looking for **Backend Python Developer** or **Backend + AI/ML** roles — preferably at product companies where the engineering actually matters.
 
-If you need **clean APIs, solid database design, and a developer who ships** — reach out.
+If you need **clean APIs, solid database design, and a developer who ships** — let's talk.
 
 <div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_View_Portfolio-000000?style=for-the-badge)](https://sriramakanthpendikatla.github.io/Portfolio/)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sriramakanthpendikatla)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sriramakanthpendikatla84@gmail.com)
 
 <br/>
 
-**📍 Targeting:** Hyderabad · Bengaluru · Chennai · Remote
+[![Portfolio](https://img.shields.io/badge/🌐_View_My_Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00d9ff)](https://sriramakanthpendikatla.github.io/Portfolio/)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sriramakanthpendikatla)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sriramakanthpendikatla84@gmail.com)
 
-</div>
+<br/><br/>
 
----
+**📍 Open to:** Hyderabad · Bengaluru · Chennai · Remote
 
-<div align="center">
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-*⭐ If any of my projects helped you — a star goes a long way!*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:0a3040,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
