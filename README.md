@@ -147,12 +147,50 @@ Animated community website for the ACM chapter — dark navy + electric cyan the
 
 ## 🏛️ ACM Leadership
 
-As **Chairperson of the VVIT ACM Student Chapter**, I lead a community of engineering students focused on technical excellence and industry readiness.
+### 🎖️ Chairperson — ACM VVIT Student Chapter (2025–Present)
 
-- 🗓️ Organised **Udgama 1.0** — a full-scale internal hackathon with multiple problem tracks
-- 📚 Planned and executed **25+ technical events** in 2025–2026: workshops, bootcamps, and competitions
-- 🤝 Built a bridge between academic curriculum and industry-relevant engineering skills for 1000+ students
+Leading one of the most active technical communities at VVIT by fostering innovation, collaboration, and industry-ready skills among students.
 
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Leadership Highlights
+- 👥 Leading a team of student officers and volunteers
+- 🎯 Organized **Udgama 1.0 Hackathon**
+- 📅 Planned & executed **25+ technical events**
+- 🤝 Built collaborations with developers, mentors & industry experts
+- 💡 Promoted open-source culture and hands-on learning
+
+</td>
+<td width="50%">
+
+### 📈 Impact
+- 👨‍🎓 **1000+ students** reached
+- 💻 Hackathons, coding contests & bootcamps
+- 🎤 Speaker sessions & technical workshops
+- 🌐 Increased ACM chapter engagement
+- 🚀 Mentored students on projects and career growth
+
+</td>
+</tr>
+</table>
+
+### 🏆 Key Achievements
+
+✅ Organized **Udgama 1.0**, ACM VVIT's flagship hackathon with multiple problem statements.
+
+✅ Conducted **25+ technical events**, including:
+- AI & Machine Learning Workshops
+- Web Development Bootcamps
+- Competitive Programming Contests
+- Git & GitHub Sessions
+- Open Source Contribution Drives
+- Technical Speaker Sessions
+
+✅ Built a collaborative ecosystem connecting students with industry practices, modern technologies, and real-world software development.
+
+> **"Building developers, not just graduates."** 🚀
 ---
 
 ## 🤝 Let's Connect
