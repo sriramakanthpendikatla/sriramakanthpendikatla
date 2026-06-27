@@ -1,270 +1,240 @@
+<!-- Header -->
 <div align="center">
+<br/>
 
-# Pendikatla Sri RamaKanth
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║     P E N D I K A T L A   S R I   R A M A K A N T H               ║
+║                                                                      ║
+║     Backend Python Developer  ·  AI / ML Engineer                   ║
+║     Vijayawada, India  ·  Open to Hyderabad · Bengaluru · Remote    ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
-**Backend Python Developer · AI/ML Engineer**
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1400&color=00D9FF&center=true&vCenter=true&width=560&lines=FastAPI+%7C+PostgreSQL+%7C+SQLAlchemy+2.0+%7C+Docker;GenAI+%7C+RAG+Pipelines+%7C+LangChain+%7C+PyTorch;Building+backends+that+actually+scale;ACM+Chairperson+%E2%80%A2+Open+to+Opportunities)](https://github.com/sriramakanthpendikatla)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sriramakanthpendikatla.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sriramakanthpendikatla)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sriramakanthpendikatla84@gmail.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/sriramakanthpendikatla)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-Visit-00d9ff?style=flat-square&labelColor=0d1117)](https://sriramakanthpendikatla.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/sriramakanthpendikatla)
-[![Gmail](https://img.shields.io/badge/Gmail-Mail-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:sriramakanthpendikatla84@gmail.com)
-[![HackerRank](https://img.shields.io/badge/HackerRank-5★%20Gold-00EA64?style=flat-square&logo=hackerrank&logoColor=black&labelColor=0d1117)](https://www.hackerrank.com/sriramakanthpendikatla)
-[![Views](https://komarev.com/ghpvc/?username=sriramakanthpendikatla&style=flat-square&color=00d9ff&label=Profile+Views)](https://github.com/sriramakanthpendikatla)
+![](https://img.shields.io/badge/B.Tech%20CSE%20(AI%20%26%20ML)-VVIT%20'25-blue?style=flat-square)
+![](https://img.shields.io/badge/ACM-Chairperson-orange?style=flat-square)
+![](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square)
+[![Profile Views](https://komarev.com/ghpvc/?username=sriramakanthpendikatla&style=flat-square&color=blueviolet)](https://github.com/sriramakanthpendikatla)
 
 </div>
 
----
-
-```python
-class SriRamaKanth:
-    name        = "Pendikatla Sri RamaKanth"
-    role        = "Backend Python Developer  ·  AI/ML Engineer"
-    location    = "Vijayawada, Andhra Pradesh, India 🇮🇳"
-    education   = "B.Tech CSE (AI & ML) — VVIT  |  Batch of 2025"
-    leadership  = "ACM Chairperson @ VVIT  |  25+ events  |  1000+ students"
-    core_stack  = ["FastAPI", "PostgreSQL", "SQLAlchemy 2.0", "Docker", "Alembic"]
-    ai_edge     = ["GenAI", "RAG Pipelines", "CLIP", "LangChain", "PyTorch"]
-    currently   = "Open to Backend Python · Backend + AI/ML roles 🚀"
-
-    def greet(self):
-        return "Let's build something that actually scales."
-```
+<br/>
 
 ---
 
-## ⚡ What I Build
+## 01 &nbsp;·&nbsp; ABOUT
 
-| Area | What I Ship |
-|:---|:---|
-| 🔧 **REST APIs** | Production-grade FastAPI services — async, typed, documented, deployed |
-| 🗄️ **Database Design** | PostgreSQL + SQLAlchemy 2.0 schemas, Alembic migrations |
-| 🤖 **AI Integration** | LLM backends, RAG pipelines, multimodal CLIP/ResNet18, LangChain agents |
-| 🐳 **DevOps** | Docker multi-stage builds, GitHub Actions CI/CD, Render deployments |
-| 📦 **Full-Stack** | FastAPI backends + React frontends — both deployed and live |
+> I build **production-grade backends** — async APIs, relational schemas, and AI integrations that ship and scale. Currently serving as **ACM Chairperson** at VVIT, where I've organized 25+ technical events reaching 1000+ students.
+>
+> I don't collect buzzwords. I write FastAPI services with proper async patterns, design PostgreSQL schemas with Alembic migrations, and wire LLMs into backends that actually work in production.
 
----
-
-## 🚀 Projects
-
-<details open>
-<summary><b>🚗 Corporate Vehicle Pool System</b> — Fleet management at production grade</summary>
 <br/>
-
-> `FastAPI` · `SQLAlchemy` · `PostgreSQL` · `Alembic` · `Pydantic`
-
-- ⚡ Concurrent reservation locking via `SELECT FOR UPDATE`
-- 🏢 Department-based access control
-- 🚦 Driver license validation + maintenance scheduling with conflict detection
-- 📋 Full lifecycle: reservation → check-out → check-in → maintenance
-
-</details>
-
-<details open>
-<summary><b>🛒 Shopping Cart — Full Stack</b> — Every layer deployed and live</summary>
-<br/>
-
-> `FastAPI` · `SQLAlchemy 2.0` · `PostgreSQL` · `React` · `Docker` · `GitHub Actions`
-
-- ✅ Full CRUD · live search · sortable columns
-- 🐳 Dockerised backend on Render + Neon PostgreSQL
-- ⚙️ GitHub Actions CI/CD → GitHub Pages frontend
-
-🔗 [Live Demo](https://sriramakanthpendikatla.github.io/fastapi-shoppingcart) · [API Docs](https://fastapi-shoppingcart.onrender.com/docs)
-
-</details>
-
-<details open>
-<summary><b>🤖 AI Product Intelligence System</b> — Vision + language, fused</summary>
-<br/>
-
-> `FastAPI` · `CLIP` · `ResNet18` · `PyTorch`
-
-- 🧠 CLIP cross-modal embeddings + ResNet18 visual features
-- 🔀 Multimodal product classification pipeline
-- ⚡ Served via clean async FastAPI endpoints
-
-</details>
-
-<details open>
-<summary><b>🔐 Online Exam Submission System</b> — Secure, timed, zero double-submit</summary>
-<br/>
-
-> `FastAPI` · `SQLAlchemy` · `PostgreSQL` · `Alembic` · `JWT`
-
-- 🔑 JWT auth with timed session handling
-- 🔒 Submission locking — zero double-submits guaranteed
-- 📊 Normalised schema · clean router-level separation
-
-</details>
-
-<details>
-<summary><b>🏠 Real Estate Price Prediction API</b></summary>
-<br/>
-
-> `FastAPI` · `scikit-learn` · `PostgreSQL` · `Docker`
-
-- 📈 Data ingestion → feature engineering → inference → persistence
-- 🐳 One-command deployment via Docker
-
-</details>
-
-<details>
-<summary><b>💧 HealthWatch — Disease Monitoring PWA</b></summary>
-<br/>
-
-> `React` · `TypeScript` · `Vite` · `Tailwind CSS`
-
-- 👥 Role-based views: ASHA workers · clinic staff · district officers
-- 📶 Offline-connectivity awareness
-
-🔗 [Live Demo](https://sriramakanthpendikatla.github.io/HealthWatch/)
-
-</details>
-
-<details>
-<summary><b>🌐 VVIT ACM Chapter Website</b></summary>
-<br/>
-
-> `React` · `Vite` · `Framer Motion` · `GSAP` · `tsParticles`
-
-Dark navy + electric cyan with particle effects and GSAP scroll animations — the official public face of ACM VVIT.
-
-</details>
-
----
-
-## 🛠️ Tech Stack
-
-**Backend Python**
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-cc2927?style=flat-square&logo=python&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
-
-**AI / ML**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F79318?style=flat-square&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=python&logoColor=white)
-
-**DevOps & Cloud**
-
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=black)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-![Neon](https://img.shields.io/badge/Neon_DB-00E5CC?style=flat-square&logo=postgresql&logoColor=black)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-
----
-
-## 📈 GitHub Activity
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sriramakanthpendikatla&theme=tokyonight&hide_border=true&fire=FF6B35&ring=00D9FF&currStreakLabel=00D9FF&sideLabels=7d8590&background=0d1117&dates=7d8590)](https://github.com/sriramakanthpendikatla)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sriramakanthpendikatla&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff)](https://github.com/sriramakanthpendikatla)
+| 🎓 B.Tech CSE (AI & ML) | 🏛️ ACM Chairperson | 🥈 2nd · AUNSF 3.0 | ⭐ 5★ Gold · HackerRank |
+|:---:|:---:|:---:|:---:|
+| VVIT · Batch of 2025 | 25+ Events · 1000+ Students | National Startup Competition | Python |
 
 </div>
 
----
-
-## 🏆 Achievements
-
-| | Achievement | |
-|:---:|:---|:---:|
-| 🥈 | **2nd Place** — AUNSF 3.0 National Startup Competition | `startup` |
-| ⭐ | **5★ Gold** in Python — HackerRank | `coding` |
-| 🎓 | **Elite + Top 1%** — NPTEL HCI · IIT Madras / IIIT Delhi | `top 1%` |
-| ☁️ | **Google Cloud** Skill Boost — Vertex AI & Gemini | `cloud` |
-| 📊 | **NPTEL** — Python for Data Science | `cert` |
-| 🏛️ | **ACM Chairperson** — 25+ events · 1000+ students | `leadership` |
-| 💼 | **Interned** @ Infosys Springboard & Prodigy InfoTech | `industry` |
+<br/>
 
 ---
 
-## 🏛️ ACM Leadership — VVIT Student Chapter
+## 02 &nbsp;·&nbsp; EXPERIENCE
 
-**Chairperson · 2025 – Present**
+**`Infosys Springboard`** &nbsp;—&nbsp; Intern &nbsp;·&nbsp; Python & Backend Development
 
-```
-"Building developers, not just graduates."
-```
+**`Prodigy InfoTech`** &nbsp;—&nbsp; Intern &nbsp;·&nbsp; Machine Learning
 
-- 🚀 Organised **Udgama 1.0** — ACM VVIT's flagship hackathon · 100+ participants
-- 📅 Executed **25+ events** — AI/ML · web dev · open source · competitive programming
-- 👨‍🎓 **1000+ students** reached across workshops, bootcamps and speaker sessions
-- 🤝 Built industry collaborations · mentored peers on projects and career paths
+**`ACM VVIT Student Chapter`** &nbsp;—&nbsp; Chairperson · 2025–Present
+- Organized **Udgama 1.0** — flagship hackathon · 100+ participants
+- Executed 25+ events across AI/ML, web dev, competitive programming & open source
+- Mentored peers on backend engineering, projects and career paths
 
----
-
-## 🌱 Currently Learning
-
-```bash
-$ cat ~/learning/roadmap.log
-
-[ACTIVE]  PostgreSQL advanced  — partitioning, indexing strategies, EXPLAIN ANALYZE
-[ACTIVE]  System Design        — HLD/LLD for backend & SDE interviews
-[ACTIVE]  LangChain + LLMs     — agentic backend patterns & tool use
-[NEXT]    Kubernetes           — container orchestration for backend services
-[NEXT]    Redis patterns       — caching strategies for FastAPI at scale
-[ALWAYS]  Clean code · Good API design · Fewer bugs 🐛
-```
+<br/>
 
 ---
 
-## 💬 Ask Me About
+## 03 &nbsp;·&nbsp; PROJECTS
+
+### ◆ Corporate Vehicle Pool System &nbsp;`production-grade`
+> Fleet management backend built for concurrency and correctness
 
 ```
-⚡ FastAPI          →  routers, deps, middleware, async, background tasks
-🗄️ SQLAlchemy 2.0  →  sessions, relationships, loading strategies, Alembic
-🐳 Docker          →  multi-stage builds, Compose, health checks, Render deploys
-🤖 AI × Backend    →  LLMs + FastAPI, RAG pipelines, embedding storage
-🏛️ Community       →  running a college tech chapter from scratch
+Stack  →  FastAPI · SQLAlchemy · PostgreSQL · Alembic · Pydantic
 ```
+- Concurrent reservation locking with `SELECT FOR UPDATE` — no race conditions
+- Department-based access control with role separation
+- Driver license validation, maintenance scheduling with conflict detection
+- Full lifecycle: `reservation → check-out → check-in → maintenance → reporting`
+
+---
+
+### ◆ Shopping Cart — Full Stack &nbsp;`deployed · live`
+> Every layer is in production
+
+```
+Stack  →  FastAPI · SQLAlchemy 2.0 · PostgreSQL · React · Docker · GitHub Actions
+```
+- Complete CRUD with live search and sortable columns
+- Backend on Render · Neon PostgreSQL · GitHub Actions CI/CD → GitHub Pages
+
+&nbsp;&nbsp;&nbsp;&nbsp;🔗 [Live Demo](https://sriramakanthpendikatla.github.io/fastapi-shoppingcart) &nbsp;·&nbsp; [API Docs](https://fastapi-shoppingcart.onrender.com/docs)
+
+---
+
+### ◆ AI Product Intelligence System &nbsp;`multimodal`
+> Vision + language, fused into a single classification pipeline
+
+```
+Stack  →  FastAPI · CLIP · ResNet18 · PyTorch
+```
+- CLIP cross-modal embeddings fused with ResNet18 visual features
+- Served via clean async FastAPI endpoints with typed request/response models
+
+---
+
+### ◆ Online Exam Submission System &nbsp;`secure`
+> Timed, authenticated, guaranteed single-submission
+
+```
+Stack  →  FastAPI · SQLAlchemy · PostgreSQL · Alembic · JWT
+```
+- JWT auth with server-enforced session timing
+- Submission locking — zero double-submits, even under load
+- Normalised schema with clean router-level separation
+
+---
+
+### ◆ Real Estate Price Prediction API &nbsp;`mlops`
+
+```
+Stack  →  FastAPI · scikit-learn · PostgreSQL · Docker
+```
+- Full ML pipeline: ingestion → feature engineering → inference → persistence
+- One-command Docker deployment
+
+---
+
+### ◆ HealthWatch — Disease Monitoring PWA &nbsp;`deployed · live`
+
+```
+Stack  →  React · TypeScript · Vite · Tailwind CSS
+```
+- Role-based dashboards for ASHA workers, clinic staff, and district officers
+- Offline-connectivity awareness for field use
+
+&nbsp;&nbsp;&nbsp;&nbsp;🔗 [Live Demo](https://sriramakanthpendikatla.github.io/HealthWatch/)
+
+---
+
+### ◆ VVIT ACM Chapter Website &nbsp;`frontend`
+
+```
+Stack  →  React · Vite · Framer Motion · GSAP · tsParticles
+```
+- Dark navy + electric cyan with particle effects and scroll-driven GSAP animations
+- Official public face of the ACM VVIT chapter
+
+<br/>
+
+---
+
+## 04 &nbsp;·&nbsp; SKILLS
+
+```yaml
+Backend Python:
+  core:      [ FastAPI, SQLAlchemy 2.0, Pydantic, Alembic, Django, Pytest ]
+  patterns:  [ Async workflows, Dependency injection, Background tasks, REST design ]
+
+Databases:
+  relational:  [ PostgreSQL, MySQL ]
+  nosql:       [ MongoDB, Firebase ]
+  caching:     [ Redis ]
+  cloud:       [ Neon DB ]
+
+AI / ML:
+  frameworks:  [ PyTorch, TensorFlow, scikit-learn, XGBoost ]
+  llm:         [ LangChain, RAG pipelines, LLM backends, Embedding storage ]
+  vision:      [ CLIP, ResNet18, YOLOv8, OpenCV ]
+  data:        [ Pandas, NumPy ]
+
+DevOps:
+  containers:  [ Docker, multi-stage builds, Docker Compose ]
+  ci_cd:       [ GitHub Actions ]
+  cloud:       [ GCP, AWS, Render ]
+
+Frontend:
+  stack:       [ React, TypeScript, Vite, Tailwind CSS ]
+  animation:   [ Framer Motion, GSAP, tsParticles ]
+```
+
+<br/>
+
+---
+
+## 05 &nbsp;·&nbsp; ACTIVITY
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sriramakanthpendikatla&theme=github-dark&hide_border=true&background=0d1117&ring=4F8CC9&fire=FF6B35&currStreakLabel=4F8CC9&sideLabels=8b949e&dates=8b949e&stroke=30363d)](https://github.com/sriramakanthpendikatla)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sriramakanthpendikatla&theme=github-compact&hide_border=true&bg_color=0d1117&color=4F8CC9&line=4F8CC9&point=ffffff&area=true&area_color=4F8CC9)](https://github.com/sriramakanthpendikatla)
+
+</div>
+
+<br/>
+
+---
+
+## 06 &nbsp;·&nbsp; CERTIFICATIONS
+
+| Issuer | Certification | Tag |
+|:---|:---|:---:|
+| NPTEL · IIT Madras / IIIT Delhi | Human–Computer Interaction | `Elite · Top 1%` |
+| NPTEL | Python for Data Science | `Certified` |
+| Google Cloud | Vertex AI & Gemini · Skill Boost | `Cloud` |
+| HackerRank | Python | `5★ Gold` |
+
+<br/>
+
+---
+
+## 07 &nbsp;·&nbsp; CURRENTLY LEARNING
+
+```
+PostgreSQL advanced  →  partitioning · indexing strategies · EXPLAIN ANALYZE
+System Design        →  HLD / LLD for backend & SDE interviews
+LangChain + LLMs     →  agentic backend patterns · tool use
+Kubernetes           →  container orchestration for backend services
+Redis patterns       →  caching strategies for FastAPI at scale
+```
+
+<br/>
 
 ---
 
 <div align="center">
 
-**Open to Backend Python · Backend + AI/ML roles**
+```
+─────────────────────────────────────────────────────────────────────
+  Let's build something that actually scales.
+─────────────────────────────────────────────────────────────────────
+```
 
-If you need clean APIs, solid database design, and a developer who ships — let's talk.
-
-[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-0d1117?style=for-the-badge&logoColor=00d9ff)](https://sriramakanthpendikatla.github.io/Portfolio/)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sriramakanthpendikatla)
-&nbsp;
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sriramakanthpendikatla84@gmail.com)
-
-`Hyderabad` · `Bengaluru` · `Chennai` · `Remote`
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sriramakanthpendikatla.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sriramakanthpendikatla)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sriramakanthpendikatla84@gmail.com)
 
 </div>
