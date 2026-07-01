@@ -128,14 +128,16 @@ Animated community website for the ACM chapter — dark navy + electric cyan the
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sriramakanthpendikatla&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriramakanthpendikatla&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sriramakanthpendikatla&theme=tokyonight&hide_border=true&show_icons=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriramakanthpendikatla&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sriramakanthpendikatla&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=sriramakanthpendikatla&theme=tokyonight&hide_border=true"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sriramakanthpendikatla&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sriramakanthpendikatla&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </p>
 
 ---
