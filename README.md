@@ -128,8 +128,8 @@ Animated community website for the ACM chapter — dark navy + electric cyan the
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sriramakanthpendikatla&theme=tokyonight&hide_border=true&show_icons=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriramakanthpendikatla&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sriramakanthpendikatla&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sriramakanthpendikatla&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
