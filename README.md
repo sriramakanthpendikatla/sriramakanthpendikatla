@@ -3,7 +3,7 @@
 <p align="center">
   <b>Backend Python Developer · FastAPI · PostgreSQL · Docker</b><br/>
   AI/ML Integration · GenAI Systems · REST APIs that actually scale<br/>
-  Final-year B.Tech CSE - (AI & ML) · VVIT, Andhra Pradesh · ACM Chairperson
+  Final-year B.Tech CSE (AI & ML) · VVIT, Andhra Pradesh · ACM Chairperson
 </p>
 
 <p align="center">
