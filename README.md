@@ -133,7 +133,7 @@ Animated community website for the ACM chapter — dark navy + electric cyan the
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sriramakanthpendikatla&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -152,7 +152,7 @@ Leading one of the most active technical communities at VVIT by fostering innova
 <tr>
 <td width="50%">
 
-### 🚀 Leadership Highlights -
+### 🚀 Leadership Highlights 
 - 👥 Leading a team of student officers and volunteers
 - 🎯 Organized **Udgama 1.0 Hackathon**
 - 📅 Planned & executed **25+ technical events**
