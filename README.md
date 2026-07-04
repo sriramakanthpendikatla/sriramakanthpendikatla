@@ -133,7 +133,7 @@ Animated community website for the ACM chapter — dark navy + electric cyan the
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=sriramakanthpendikatla&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
