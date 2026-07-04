@@ -124,13 +124,14 @@ Animated community website for the ACM chapter — dark navy + electric cyan the
   <img src="https://skillicons.dev/icons?i=js,java,c"/>
 </p>
 ---
+
 <p align="center">
   <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sriramakanthpendikatla&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sriramakanthpendikatla&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sriramakanthpendikatla&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/apiusername=sriramakanthpendikatla&show_icons=true&theme=tokyonight&v=2"/>
 </p>
 
 <p align="center">
