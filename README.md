@@ -124,12 +124,9 @@ Animated community website for the ACM chapter — dark navy + electric cyan the
   <img src="https://skillicons.dev/icons?i=js,java,c"/>
 </p>
 ---
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sriramakanthpendikatla&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sriramakanthpendikatla&layout=compact&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sriramakanthpendikatla&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sriramakanthpendikatla&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -137,7 +134,7 @@ Animated community website for the ACM chapter — dark navy + electric cyan the
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sriramakanthpendikatla&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sriramakanthpendikatla&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 ---
