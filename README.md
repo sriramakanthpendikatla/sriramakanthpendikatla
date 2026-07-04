@@ -131,7 +131,7 @@ Animated community website for the ACM chapter — dark navy + electric cyan the
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/apiusername=sriramakanthpendikatla&show_icons=true&theme=tokyonight&v=3"/>
+  <img src="https://streak-stats.demolab.com?user=sriramakanthpendikatla&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
