@@ -26,7 +26,7 @@ I'm a **Backend Python Developer** who specialises in building clean, scalable A
 
 My core is **FastAPI + PostgreSQL + Docker** — I design REST APIs, model relational schemas, manage async workflows, and containerise everything for reproducible deployment. On top of that I bring AI/ML integration as a differentiator: connecting LLMs, embedding pipelines, and ML models into real backend services.
 
-- 🐍 **Primary stack:** Python · FastAPI · SQLAlchemy · PostgreSQL · Docker
+- 🐍 **Primary stack:** Python · FastAPI · SQLAlchemy · PostgreSQL · Docke
 - 🤖 **AI edge:** GenAI integrations, RAG pipelines, CLIP/ResNet18 multimodal systems
 - 🏛️ **Leadership:** ACM Chairperson at VVIT — organised **Udgama 1.0** hackathon (100+ participants)
 - 🏆 **Achievements:** 2nd place at **AUNSF 3.0 Startup Competition** · HackerRank 5★ Gold in Python
