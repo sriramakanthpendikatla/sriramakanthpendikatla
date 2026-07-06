@@ -33,7 +33,7 @@ My core is **FastAPI + PostgreSQL + Docker** — I design REST APIs, model relat
 - ☁️ **Certified:** Google Cloud Skill Boost — Vertex AI & Gemini · NPTEL Python for Data Science
 - 🎯 **Open to:** Backend Python Developer · Backend + AI/ML roles · 2025–2026
 - 📍 **Based in:** Vijayawada, Andhra Pradesh, India
-
+  
 ---
 
 ## 🚀 Featured Projects
