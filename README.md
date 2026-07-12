@@ -1,28 +1,34 @@
+<!-- ========================= HERO ========================= -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,12,20,24,30&text=Pendikatla%20Sri%20RamaKanth&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Python%20Developer%20%7C%20AI%20Engineer%20%7C%20FastAPI%20Specialist&descAlignY=58&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:38BDF8&height=260&section=header&text=Pendikatla%20Sri%20RamaKanth&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Python%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=900&lines=Backend+Python+Developer;FastAPI+%7C+PostgreSQL+%7C+Docker;AI%2FML+Engineer;Building+Production+Ready+REST+APIs;Generative+AI+%26+RAG+Developer"/>
+# 👋 Hi, I'm Pendikatla Sri RamaKanth
 
-<br>
+### Backend Python Developer • FastAPI • PostgreSQL • Docker • AI/ML
+
+<p>
 
 <a href="https://sriramakanthpendikatla.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/sriramakanthpendikatla">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:sriramakanthpendikatla84@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/sriramakanthpendikatla">
 <img src="https://img.shields.io/github/followers/sriramakanthpendikatla?style=for-the-badge"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=sriramakanthpendikatla&style=for-the-badge&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=sriramakanthpendikatla&style=for-the-badge&color=0E75B6"/>
+
+</p>
 
 </div>
 
@@ -30,110 +36,136 @@
 
 # 💫 About Me
 
-<img align="right" width="360" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+```python
+class SriRamaKanth:
 
-### 👋 Hi there!
+    def __init__(self):
+        self.role = "Backend Python Developer"
+        self.location = "Andhra Pradesh, India"
 
-I'm **Pendikatla Sri RamaKanth**, a **Backend Python Developer** passionate about building scalable backend systems and integrating AI into real-world applications.
+        self.languages = [
+            "Python",
+            "Java",
+            "JavaScript",
+            "SQL"
+        ]
 
-💙 I enjoy turning ideas into reliable software using modern backend technologies.
+        self.backend = [
+            "FastAPI",
+            "SQLAlchemy",
+            "PostgreSQL",
+            "Docker"
+        ]
 
-### 🚀 Current Focus
+        self.ai = [
+            "Machine Learning",
+            "Generative AI",
+            "RAG",
+            "LangChain",
+            "PyTorch"
+        ]
 
-- 🐍 Backend Development with Python
-- ⚡ FastAPI & Async APIs
-- 🐘 PostgreSQL Database Design
-- 🐳 Docker & Containerization
-- 🤖 AI / LLM Integration
-- 🔍 Retrieval-Augmented Generation (RAG)
-- ☁️ Cloud Deployment
-- 📚 System Design
+        self.current_focus = [
+            "Scalable REST APIs",
+            "System Design",
+            "AI Powered Applications"
+        ]
+
+    def life_goal(self):
+        return "Build products that people love ❤️"
+```
 
 ---
 
-# ⚡ Quick Snapshot
+# 🚀 Quick Highlights
 
-<div align="center">
+<table>
+<tr>
 
-| 💻 | 🚀 |
-|:---:|:---:|
-| Backend Python Developer | FastAPI Specialist |
-| PostgreSQL | Docker |
-| AI Integration | REST APIs |
-| ACM Chairperson | Final Year CSE (AI & ML) |
+<td width="50%">
 
-</div>
+### 👨‍💻 Professional
+
+- 🐍 Backend Python Developer
+- ⚡ FastAPI Specialist
+- 🗄 PostgreSQL
+- 🐳 Docker
+- 🔥 REST APIs
+- 🤖 AI Integration
+
+</td>
+
+<td width="50%">
+
+### 🏆 Achievements
+
+- ⭐ HackerRank Python Gold (5★)
+- 🥈 AUNSF Startup Competition Runner-up
+- 🎖 ACM VVIT Chairperson
+- ☁️ Google Cloud Certified
+- ☁️ AWS Certified
+- 📚 NPTEL Python for Data Science
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 🛠 Tech Arsenal
-
-<div align="center">
+# ⚙️ Tech Stack
 
 ## 🚀 Backend
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,docker,postgres"/>
+<p align="center">
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,docker"/>
+
+</p>
+
+---
 
 ## 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite"/>
+<p align="center">
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,vite,tailwind"/>
+
+</p>
+
+---
 
 ## 🤖 AI / ML
 
+<p align="center">
+
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
 
-<br>
+</p>
 
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge"/>
+<p align="center">
+
+<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-blue?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/FAISS-4F46E5?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge"/>
 
-<br><br>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge"/>
+
+</p>
+
+---
 
 ## ☁️ Cloud & DevOps
 
+<p align="center">
+
 <img src="https://skillicons.dev/icons?i=aws,gcp,git,github,postman,vscode"/>
 
-</div>
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-| 🥇 Achievement | 🎯 Status |
-|----------------|-----------|
-| ⭐ HackerRank Python | 5★ Gold |
-| 🏆 AUNSF Startup Competition | Runner-up |
-| 🎖 ACM VVIT | Chairperson |
-| ☁️ Google Cloud | Certified |
-| ☁️ AWS | Cloud & AI Practitioner |
-| 📜 NPTEL | Python for Data Science |
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-| 🚀 Project | ⚙️ Tech Stack | 🔗 |
-|------------|---------------|----|
-| 🚗 Corporate Vehicle Pool Management | FastAPI • PostgreSQL • SQLAlchemy • Docker | ⭐ |
-| 🛒 Shopping Cart Inventory System | FastAPI • React • Docker | 🌐 |
-| 💧 HealthWatch PWA | React • TypeScript • Vite | 🌐 |
-| 🔐 Online Exam Submission System | FastAPI • PostgreSQL | ⭐ |
-| 🏠 Real Estate Price Prediction API | FastAPI • Scikit-Learn • Docker | ⭐ |
-| 🤖 AI Product Intelligence System | CLIP • ResNet18 • PyTorch | ⭐ |
-
-</div>
+</p>
 
 ---
 
@@ -153,10 +185,306 @@ I'm **Pendikatla Sri RamaKanth**, a **Backend Python Developer** passionate abou
 
 ---
 
+# 🎯 What I'm Working On
+
+- 🚀 Production-grade Backend Systems
+- 🤖 AI + FastAPI Applications
+- 📦 Dockerized Deployments
+- 🧠 System Design
+- ☁️ Cloud-native Development
+- 🌍 Open Source Contributions
+
+---
+
 <div align="center">
 
-## ⚡ "Code • Learn • Build • Inspire"
+### 💡 *"First solve the problem, then write clean code."*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+</div>
+
+<!-- ========================= FEATURED PROJECTS ========================= -->
+
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🚗 Corporate Vehicle Pool Management
+
+Production-grade fleet management backend with secure reservation workflows, maintenance scheduling, audit logs, and department-wise access.
+
+**Tech Stack**
+
+`FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `Docker`
+
+**Highlights**
+
+- Department-based access
+- Reservation locking
+- Maintenance scheduling
+- Audit trail
+- Fuel & odometer tracking
+
+**Repository**
+
+> https://github.com/sriramakanthpendikatla
+
+</td>
+
+<td width="50%">
+
+### 🛒 Shopping Cart Inventory
+
+Full Stack Inventory Management System.
+
+**Tech Stack**
+
+`FastAPI` `React` `Docker` `PostgreSQL`
+
+**Live Demo**
+
+https://sriramakanthpendikatla.github.io/fastapi-shoppingcart
+
+**API Docs**
+
+https://fastapi-shoppingcart.onrender.com/docs
+
+**Repository**
+
+https://github.com/sriramakanthpendikatla/fastapi-shoppingcart
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 💧 HealthWatch
+
+Community healthcare platform for reporting waterborne diseases.
+
+**Tech**
+
+`React`
+`TypeScript`
+`Vite`
+
+**Live**
+
+https://sriramakanthpendikatla.github.io/HealthWatch
+
+**Repository**
+
+https://github.com/sriramakanthpendikatla/HealthWatch
+
+</td>
+
+<td>
+
+### 🔐 Online Exam Submission System
+
+Backend for secure online examinations.
+
+**Features**
+
+- JWT Authentication
+- Timed Exams
+- SQLAlchemy ORM
+- PostgreSQL
+- Alembic
+
+**Repository**
+
+https://github.com/sriramakanthpendikatla
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 🏠 Real Estate Price Prediction API
+
+Machine Learning REST API
+
+**Tech**
+
+`FastAPI`
+`Docker`
+`Scikit-Learn`
+
+</td>
+
+<td>
+
+### 🤖 AI Product Intelligence
+
+Multimodal AI using CLIP + ResNet18.
+
+**Tech**
+
+`PyTorch`
+`FastAPI`
+`Computer Vision`
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🏛 Leadership
+
+## 🎖 ACM VVIT Student Chapter
+
+**Chairperson (2025 – Present)**
+
+Leading one of the most active technical communities at VVIT by organizing hackathons, workshops, coding contests, and industry sessions.
+
+### Highlights
+
+- 🚀 Organized Udgama 1.0 Hackathon
+- 👨‍💻 Conducted 25+ Technical Events
+- 🎤 Hosted Industry Speakers
+- 🌱 Mentored Students
+- 🌍 Promoted Open Source
+- 🤝 Built Industry Connections
+
+---
+
+# 🏆 Achievements
+
+- ⭐ HackerRank Python Gold (5★)
+- 🥈 Runner-up – AUNSF Startup Competition
+- ☁ Google Cloud Skill Boost
+- ☁ AWS Cloud Practitioner
+- 🤖 AWS AI Practitioner
+- 🎖 ACM Chairperson
+- 📚 NPTEL Python for Data Science
+
+---
+
+# 📜 Certifications
+
+| Certification | Provider |
+|---------------|----------|
+| AWS Cloud Practitioner | Amazon Web Services |
+| AWS AI Practitioner | Amazon Web Services |
+| Vertex AI Prompt Design | Google Cloud |
+| Gemini Skill Boost | Google Cloud |
+| IBM Prompt Engineering | IBM |
+| Python for Data Science | NPTEL |
+| HTML & CSS | Udemy |
+| ChatGPT for Everyone | GUVI |
+| Introduction to Generative AI | LinkedIn Learning |
+
+---
+
+# 📊 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sriramakanthpendikatla&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sriramakanthpendikatla&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+> Enable GitHub Actions in your profile repository before using this image.
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sriramakanthpendikatla/sriramakanthpendikatla/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 📈 Development Focus
+
+```text
+Backend Development      ████████████████████████ 95%
+
+FastAPI                  ████████████████████████ 95%
+
+PostgreSQL               ██████████████████████   90%
+
+SQLAlchemy               ██████████████████████   90%
+
+Docker                   █████████████████████    88%
+
+Machine Learning         ███████████████████      82%
+
+Generative AI            ███████████████████      82%
+
+React                    ██████████████████       80%
+
+Cloud                    █████████████████        75%
+```
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+### Open To
+
+Backend Python Developer
+
+FastAPI Developer
+
+Backend + AI Engineer
+
+Generative AI Engineer
+
+Open Source Collaboration
+
+<br>
+
+<a href="https://sriramakanthpendikatla.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/sriramakanthpendikatla">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:sriramakanthpendikatla84@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💙 Thanks for visiting!
+
+*"Building scalable backends, integrating AI, and solving real-world problems one API at a time."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:38BDF8&height=140&section=footer"/>
 
 </div>
