@@ -45,6 +45,14 @@ Production-grade fleet management backend for managing shared company vehicles (
 
 ---
 
+### 🌾 OptiCrop — Smart Agricultural Production Optimization Engine
+**Python · Flask · scikit-learn · pandas · Logistic Regression · K-Means**
+Machine learning-based crop recommendation system that predicts the most suitable crop from soil and climate readings (nitrogen, phosphorus, potassium, temperature, humidity, pH, rainfall). Achieves 97.27% accuracy with a Logistic Regression classifier across 22 crop classes, with rule-based seasonal grouping (Kharif/Rabi/Summer) and K-Means clustering for interpretable soil/climate profiling. Served through a Flask web app with a simple form-based UI.
+`#Python` `#Flask` `#MachineLearning` `#scikit-learn` `#Agriculture`
+[Live Demo →](https://opticrop-wb9y.onrender.com/) · [Repo →](https://github.com/sriramakanthpendikatla/OptiCrop)
+
+---
+
 ### 🛒 Shopping Cart — Full Stack Inventory Management
 **FastAPI · SQLAlchemy 2.0 · PostgreSQL · React · Docker · GitHub Actions**
 Full-stack product inventory management system with a FastAPI backend and React frontend — fully deployed and live. Features complete CRUD operations, live search, sortable columns, auto row numbering, and form validation. Backend hosted on Render with Neon PostgreSQL; frontend deployed via GitHub Actions CI/CD to GitHub Pages.
@@ -58,13 +66,6 @@ Full-stack product inventory management system with a FastAPI backend and React 
 Frontend platform for community health workers — ASHA workers, clinic staff, district officers, and volunteers — to report suspected waterborne disease cases, log water quality readings by location, and access categorised prevention guidance. Role-based views, offline-connectivity awareness, and a CI/CD pipeline via GitHub Actions deploying straight to GitHub Pages.
 `#React` `#TypeScript` `#PublicHealth` `#PWA` `#Frontend'
 [Live Demo →](https://sriramakanthpendikatla.github.io/HealthWatch/)
-
----
-
-### 🔐 Online Exam Submission System
-**FastAPI · SQLAlchemy · PostgreSQL · Alembic**
-Production-ready backend for exam management — JWT authentication, timed session handling, submission locking, and result storage. Normalised PostgreSQL schema with SQLAlchemy ORM and Alembic migrations. Clean router-level separation of concerns.
-`#FastAPI` `#PostgreSQL` `#BackendPython` `#REST API`
 
 ---
 
