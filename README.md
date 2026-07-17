@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Pendikatla Sri RamaKanth 👋</h1> 
 
-<p align="center"
+<p align="center"         
   <b>Backend Python Developer · FastAPI · PostgreSQL · Docker</b><br/>
   AI/ML Integration · GenAI Systems · REST APIs that actually scale<br/>
   Final-year B.Tech CSE (AI & ML) · VVIT, Andhra Pradesh · ACM Chairperson
