@@ -126,9 +126,18 @@ Animated community website for the ACM chapter — dark navy + electric cyan the
 </p>
 ---
 
+<!--
+  Stopgap: cache_seconds=86400 reduces how often this hits GitHub's API,
+  so it fails less under peak load — but it's still the public shared
+  instance and can still rate-limit occasionally.
+
+  Permanent fix: deploy your own instance of github-readme-stats to
+  Vercel, then replace the domain below with your own, e.g.
+  https://github-readme-stats-yourname.vercel.app
+-->
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sriramakanthpendikatla&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriramakanthpendikatla&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sriramakanthpendikatla&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriramakanthpendikatla&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </p>
 
 <p align="center">
