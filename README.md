@@ -147,8 +147,8 @@ Animated community website for the ACM chapter — dark navy + electric cyan the
   <img height="170em" src="generated/languages.svg"/>
 </p>
 
-<!-- Streak card is working correctly — dates may lag a day due to
-     GitHub's own image-caching proxy (camo), not a badge failure. -->
+<p align="center">  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sriramakanthpendikatla&show_icons=true&theme=tokyonight&hide_border=true"/>  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sriramakanthpendikatla&layout=compact&theme=tokyonight&hide_border=true"/></p>  
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sriramakanthpendikatla&theme=tokyonight&hide_border=true&cache_seconds=3600"/>
 </p>
