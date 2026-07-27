@@ -127,21 +127,27 @@ Animated community website for the ACM chapter — dark navy + electric cyan the
 ---
 
 <!--
-  Stopgap: cache_seconds=86400 reduces how often this hits GitHub's API,
-  so it fails less under peak load — but it's still the public shared
-  instance and can still rate-limit occasionally.
+  Stopgap: pointed at rickstaa's community mirror instead of the main
+  github-readme-stats.vercel.app instance, since the main one is
+  frequently rate-limited from shared traffic. cache_seconds=86400
+  also reduces how often this hits GitHub's API.
 
-  Permanent fix: deploy your own instance of github-readme-stats to
-  Vercel, then replace the domain below with your own, e.g.
+  Permanent fix: deploy your own private instance of github-readme-stats
+  to Vercel, then replace the domain below with your own, e.g.
   https://github-readme-stats-yourname.vercel.app
+
+  &v=1 below is a cache-buster: GitHub caches embedded images for
+  roughly a day, so bump this number after a push if a badge looks stale.
 -->
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sriramakanthpendikatla&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriramakanthpendikatla&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sriramakanthpendikatla&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&v=1"/>
+  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sriramakanthpendikatla&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&v=1"/>
 </p>
 
+<!-- Streak card is working correctly — dates may lag a day due to
+     GitHub's own image-caching proxy (camo), not a badge failure. -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sriramakanthpendikatla&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=sriramakanthpendikatla&theme=tokyonight&hide_border=true&cache_seconds=3600"/>
 </p>
 
 <p align="center">
