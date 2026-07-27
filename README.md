@@ -142,10 +142,6 @@ Animated community website for the ACM chapter — dark navy + electric cyan the
      current — no cache-busting query params needed, since these are
      real files in your repo, not a live badge call.
 -->
-<p align="center">
-  <img height="170em" src="generated/overview.svg"/>
-  <img height="170em" src="generated/languages.svg"/>
-</p>
 
 <p align="center">  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sriramakanthpendikatla&show_icons=true&theme=tokyonight&hide_border=true"/>  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sriramakanthpendikatla&layout=compact&theme=tokyonight&hide_border=true"/></p>  
 
