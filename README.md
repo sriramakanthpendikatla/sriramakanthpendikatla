@@ -127,28 +127,24 @@ Animated community website for the ACM chapter — dark navy + electric cyan the
 ---
 
 <!--
-  IMPORTANT: Both the main github-readme-stats.vercel.app instance and
-  the rickstaa community mirror are widely reported as down / rate-limited
-  as of late 2025 — this is a known, ongoing issue with the shared public
-  deployments (they hit GitHub's API rate limit serving huge numbers of
-  profiles), not a URL choice problem. Swapping domains won't fix it.
-
-  DURABLE FIX — deploy your own private instance (~10 min, free):
-    1. Fork github.com/anuraghazra/github-readme-stats
-    2. vercel.com -> New Project -> import your fork -> Deploy
-    3. Create a GitHub personal access token (classic, no scopes needed
-       for public data): github.com/settings/tokens
-    4. In your Vercel project -> Settings -> Environment Variables,
-       add PAT_1 = <your token>, then redeploy
-    5. Replace the domain below with your own Vercel URL, e.g.
-       https://github-readme-stats-yourname.vercel.app
-
-  &v=1 is a cache-buster: GitHub caches embedded images for roughly a
-  day, so bump this number after a push if a badge looks stale.
+  SETUP (one-time):
+  1. Commit .github/workflows/github-stats.yml (added alongside this README)
+     to your profile repo — it uses jstrieb/github-stats to generate
+     stats as static SVG files and commits them straight into this repo.
+     No external server involved, so nothing to rate-limit or go down.
+  2. Push to main, or trigger it manually once from the repo's
+     Actions tab -> "Generate GitHub Stats Images" -> Run workflow.
+  3. After the first run, it creates a generated/ folder in this repo
+     containing overview.svg and languages.svg — the images below
+     point at those relative paths and will start rendering once
+     that folder exists.
+  4. It re-runs daily (and on every push to main) to keep the numbers
+     current — no cache-busting query params needed, since these are
+     real files in your repo, not a live badge call.
 -->
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sriramakanthpendikatla&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&v=1"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriramakanthpendikatla&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&v=1"/>
+  <img height="170em" src="generated/overview.svg"/>
+  <img height="170em" src="generated/languages.svg"/>
 </p>
 
 <!-- Streak card is working correctly — dates may lag a day due to
