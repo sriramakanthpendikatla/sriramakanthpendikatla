@@ -1,12 +1,13 @@
-<h1 align="center">Hey, I'm Pendikatla Sri RamaKanth 👋</h1>    
-<p align="center"   
-  <b>Backend Python Developer · FastAPI · PostgreSQL · Docker</b><br/>
-  AI/ML Integration · GenAI Systems · REST APIs that actually scale<br/>    
-  Final-year B.Tech CSE (AI & ML) · VVIT, Andhra Pradesh · ACM Chairperson    
-</p>        
+<h1 align="center">Hey, I'm Pendikatla Sri RamaKanth 👋</h1>
 
-<p align="center">   
-  <a href="https://sriramakanthpendikatla.github.io/Portfolio/" target="_blank"> 
+<p align="center">
+  <b>Backend Python Developer · FastAPI · PostgreSQL · Docker</b><br/>
+  AI/ML Integration · GenAI Systems · REST APIs that actually scale<br/>
+  Final-year B.Tech CSE (AI & ML) · VVIT, Andhra Pradesh · ACM Chairperson
+</p>
+
+<p align="center">
+  <a href="https://sriramakanthpendikatla.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/sriramakanthpendikatla" target="_blank">
@@ -16,26 +17,38 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-    
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sriramakanthpendikatla&style=flat&color=blue" alt="Profile views"/>
+</p>
+
 ---
-    
+
 ## 👨‍💻 About Me
 
-I'm a **Backend Python Developer** who specialises in building clean, scalable APIs and integrating ML/AI into production systems.
+I'm a **Backend Python Developer** who specializes in building clean, scalable APIs and integrating ML/AI into production systems.
 
-My core is **FastAPI + PostgreSQL + Docker** — I design REST APIs, model relational schemas, manage async workflows, and containerise everything for reproducible deployment. On top of that I bring AI/ML integration as a differentiator: connecting LLMs, embedding pipelines, and ML models into real backend services.
+My core is **FastAPI + PostgreSQL + Docker** — I design REST APIs, model relational schemas, manage async workflows, and containerize everything for reproducible deployment. On top of that I bring AI/ML integration as a differentiator: connecting LLMs, RAG pipelines, embedding search, and ML models into real backend services.
 
-- 🐍 **Primary stack:** Python · FastAPI · SQLAlchemy · PostgreSQL · Docker
-- 🤖 **AI edge:** GenAI integrations, RAG pipelines, CLIP/ResNet18 multimodal systems
-- 🏛️ **Leadership:** ACM Chairperson at VVIT — organised **Udgama 1.0** hackathon (100+ participants)
-- 🏆 **Achievements:** 2nd place at **AUNSF 3.0 Startup Competition** · HackerRank 5★ Gold in Python
+- 🐍 **Primary stack:** Python · FastAPI · SQLAlchemy 2.0 · PostgreSQL · Docker
+- 🤖 **AI edge:** GenAI integrations, RAG pipelines (LangChain, pgvector), CLIP/ResNet18 multimodal systems
+- 🏗️ **Currently building:** [Stackzen](https://stackzen.io) — a RAG-based developer knowledge platform for engineering teams
+- 🏛️ **Leadership:** ACM Chairperson at VVIT — organized **Udgama 1.0** hackathon and 25+ technical events reaching 1000+ students
+- 🏆 **Achievements:** 2nd place at **AUNSF 3.0 Startup Competition** · HackerRank 5★ Gold in Python · NPTEL HCI Elite (Top 1%, IIT Madras/IIIT Delhi)
 - ☁️ **Certified:** Google Cloud Skill Boost — Vertex AI & Gemini · NPTEL Python for Data Science
 - 🎯 **Open to:** Backend Python Developer · Backend + AI/ML roles · 2025–2026
 - 📍 **Based in:** Vijayawada, Andhra Pradesh, India
-  
+
 ---
 
 ## 🚀 Featured Projects
+
+### 🧠 Stackzen — RAG-Based Developer Knowledge Platform
+**FastAPI · pgvector · LangChain · Gemini**
+A retrieval-augmented developer knowledge platform built for small-to-mid-size engineering teams — designed to surface answers from a team's own docs, code, and internal knowledge instead of generic search. Built in public end-to-end: architecture, embeddings pipeline, and retrieval layer on FastAPI + pgvector, with Gemini powering generation.
+`#RAG` `#FastAPI` `#LangChain` `#pgvector` `#GenAI`
+
+---
 
 ### 🚗 Corporate Vehicle Pool Management System
 **FastAPI · SQLAlchemy · PostgreSQL · Alembic · Pydantic**
@@ -62,15 +75,15 @@ Full-stack product inventory management system with a FastAPI backend and React 
 
 ### 💧 HealthWatch — Waterborne Disease Monitoring PWA
 **React · TypeScript · Vite · Tailwind CSS**
-Frontend platform for community health workers — ASHA workers, clinic staff, district officers, and volunteers — to report suspected waterborne disease cases, log water quality readings by location, and access categorised prevention guidance. Role-based views, offline-connectivity awareness, and a CI/CD pipeline via GitHub Actions deploying straight to GitHub Pages.
-`#React` `#TypeScript` `#PublicHealth` `#PWA` `#Frontend'
+Frontend platform for community health workers — ASHA workers, clinic staff, district officers, and volunteers — to report suspected waterborne disease cases, log water quality readings by location, and access categorized prevention guidance. Role-based views, offline-connectivity awareness, and a CI/CD pipeline via GitHub Actions deploying straight to GitHub Pages.
+`#React` `#TypeScript` `#PublicHealth` `#PWA` `#Frontend`
 [Live Demo →](https://sriramakanthpendikatla.github.io/HealthWatch/)
 
 ---
 
 ### 🏠 Real Estate Price Prediction API
 **FastAPI · scikit-learn · PostgreSQL · Docker**
-End-to-end backend service that exposes a trained ML model via a REST API. Handles data ingestion, feature engineering, model inference, and result persistence — all containerised with Docker for one-command deployment.
+End-to-end backend service that exposes a trained ML model via a REST API. Handles data ingestion, feature engineering, model inference, and result persistence — all containerized with Docker for one-command deployment.
 `#FastAPI` `#Docker` `#MachineLearning` `#Python`
 
 ---
@@ -87,7 +100,18 @@ Multimodal backend that combines vision and language understanding to classify a
 Animated community website for the ACM chapter — dark navy + electric cyan theme with particle effects and smooth scroll. Built and deployed as the chapter's public face for events and recruitment.
 `#React` `#Frontend` `#GSAP`
 
+<details>
+<summary>📦 See more projects</summary>
+
+<br/>
+
+**RealtyAI** — Real estate valuation & property analysis system built during the Infosys Springboard internship, combining XGBoost for price prediction with YOLOv8 for image-based property feature detection.
+`#XGBoost` `#YOLOv8` `#ML`
+
+</details>
+
 ---
+
 ## 💻 Tech Stack
 
 ### 🐍 Core — Backend Python
@@ -112,7 +136,7 @@ Animated community website for the ACM chapter — dark navy + electric cyan the
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
 </p>
 
-`scikit-learn` `OpenCV` `pandas` `NumPy` `CLIP` `RAG` `LangChain` `FAISS`
+`scikit-learn` `OpenCV` `pandas` `NumPy` `CLIP` `RAG` `LangChain` `pgvector` `FAISS`
 
 ### ☁️ Cloud & Tools
 <p>
@@ -123,6 +147,7 @@ Animated community website for the ACM chapter — dark navy + electric cyan the
 <p>
   <img src="https://skillicons.dev/icons?i=js,java,c"/>
 </p>
+
 ---
 
 <!--
@@ -142,7 +167,10 @@ Animated community website for the ACM chapter — dark navy + electric cyan the
      real files in your repo, not a live badge call.
 -->
 
-<p align="center">  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sriramakanthpendikatla&show_icons=true&theme=tokyonight&hide_border=true"/>  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sriramakanthpendikatla&layout=compact&theme=tokyonight&hide_border=true"/></p>  
+<p align="center">
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sriramakanthpendikatla&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sriramakanthpendikatla&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sriramakanthpendikatla&theme=tokyonight&hide_border=true&cache_seconds=3600"/>
@@ -164,7 +192,7 @@ Leading one of the most active technical communities at VVIT by fostering innova
 <tr>
 <td width="50%">
 
-### 🚀 Leadership Highlights 
+**🚀 Leadership Highlights**
 - 👥 Leading a team of student officers and volunteers
 - 🎯 Organized **Udgama 1.0 Hackathon**
 - 📅 Planned & executed **25+ technical events**
@@ -174,7 +202,7 @@ Leading one of the most active technical communities at VVIT by fostering innova
 </td>
 <td width="50%">
 
-### 📈 Impact
+**📈 Impact**
 - 👨‍🎓 **1000+ students** reached
 - 💻 Hackathons, coding contests & bootcamps
 - 🎤 Speaker sessions & technical workshops
@@ -185,7 +213,7 @@ Leading one of the most active technical communities at VVIT by fostering innova
 </tr>
 </table>
 
-### 🏆 Key Achievements
+**🏆 Key Achievements**
 
 ✅ Organized **Udgama 1.0**, ACM VVIT's flagship hackathon with multiple problem statements.
 
@@ -220,10 +248,4 @@ If you need clean APIs, solid database design, and a developer who ships — let
   <a href="mailto:sriramakanthpendikatla84@gmail.com">
     <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sriramakanthpendikatla&style=flat&color=blue"/>
 </p>
