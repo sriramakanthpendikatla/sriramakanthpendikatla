@@ -176,10 +176,6 @@ Animated community website for the ACM chapter — dark navy + electric cyan the
   <img src="https://streak-stats.demolab.com?user=sriramakanthpendikatla&theme=tokyonight&hide_border=true&cache_seconds=3600"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sriramakanthpendikatla&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
-
 ---
 
 ## 🏛️ ACM Leadership
