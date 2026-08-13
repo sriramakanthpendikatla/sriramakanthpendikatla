@@ -72,13 +72,6 @@ Full-stack product inventory management system with a FastAPI backend and React 
 
 ---
 
-### 💧 HealthWatch — Waterborne Disease Monitoring PWA
-**React · TypeScript · Vite · Tailwind CSS**
-Frontend platform for community health workers — ASHA workers, clinic staff, district officers, and volunteers — to report suspected waterborne disease cases, log water quality readings by location, and access categorized prevention guidance. Role-based views, offline-connectivity awareness, and a CI/CD pipeline via GitHub Actions deploying straight to GitHub Pages.
-`#React` `#TypeScript` `#PublicHealth` `#PWA` `#Frontend`
-[Live Demo →](https://sriramakanthpendikatla.github.io/HealthWatch/)
-
----
 
 ### 🏠 Real Estate Price Prediction API
 **FastAPI · scikit-learn · PostgreSQL · Docker**
